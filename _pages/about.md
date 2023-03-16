@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle:
+subtitle: <a href="https://netai.smartx.kr">NetAI Lab</a>
 profile:
   align: right
   image: prof_pic.jpg
@@ -14,4 +14,4 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a student of the AI Graduate School at the Gwangju Institute of Science and Technology, currently in the third semester of my combined M.S/Ph.D program. 
+I am a student of the AI Graduate School at the Gwangju Institute of Science and Technology, currently in the third semester of my combined M.S/Ph.D program.  My current affiliation is with the Network Intelligence Lab, under Professor Jongwon Kim.

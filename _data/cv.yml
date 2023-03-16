@@ -33,15 +33,13 @@
         - Dataset management for client file access logs
     - title: Undergraduate Researcher
       institution: The State University of New York, Korea
-      year: August 2021 - December 2021
       description:
-        - Development of Computer Vision-based detection system for visible cracks in large structures
-      year: February 2020 - June 2020
-      description:
-        - Development of FBM (flow-based model) for image colorization
-      year: October 2019 - December 2019
-      description:
-        - Development of NLP-based sentence compression algorithm
+        - title: August 2021 - December 2021
+          contents: Development of Computer Vision-based detection system for visible cracks in large structures
+        - title: February 2020 - June 2020
+          contents: Development of FBM (flow-based model) for image colorization
+        - title: October 2019 - December 2019
+          contents: Development of NLP-based sentence compression algorithm
 
 - title: Awards and Other Qualifications
   type: time_table
